@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PropTypes from 'prop-types'
 import landingbr from '../images/background-1.jpg'
-
+import 'semantic-ui-css/semantic.min.css'
 ///brands 
 import coinbase from '../images/coinbase.png'
 import bf from '../images/facebook-logo-1-1.png'
